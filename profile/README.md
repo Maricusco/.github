@@ -1,4 +1,4 @@
-# Project-Name
+# Maricusco
 
 <p align="center">
   <img src="https://placehold.co/150x150/2563eb/ffffff?text=LOGO" alt="Project Logo" />
